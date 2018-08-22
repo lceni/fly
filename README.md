@@ -10,4 +10,4 @@ git clone this repo first, then:
 
      javac Fly.java
      jar cmf MANIFEST.MF fly.jar Fly*.class
-     java -jar fly.jar abc.html 8888
+     java -jar fly.jar index.html 8888
